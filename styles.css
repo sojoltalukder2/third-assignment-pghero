@@ -1,0 +1,26 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.bg-cbr{
+    background-color: #264653
+}
+.btn-cbr{
+    background-color: #E76F51;
+}
+.gray-images{
+    filter: grayscale(100%);
+}
+.faq-image{
+    width: 70%;
+    margin:0 auto;
+    display: inherit;
+    text-align: center;
+}
+.user-card{
+    width: 80%;
+    margin:0 auto;
+}
+hr{width: 50px;
+    margin: 0 auto;
+}
